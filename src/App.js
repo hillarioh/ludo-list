@@ -46,6 +46,10 @@ const rows = [
     prof: pic,
     dates: [["15/NOV/2020", 3]],
   }),
+  createData("Chris Nyabuto", 3, {
+    prof: pic,
+    dates: [["16/NOV/2020", 3]],
+  }),
   createData("Faith Kemunto", 1, {
     prof: fefe,
     dates: [["1/NOV/2020", 1]],
