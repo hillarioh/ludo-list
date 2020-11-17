@@ -140,7 +140,7 @@ function App() {
       <TableContainer
         component={Paper}
         style={{
-          maxWidth: "70%",
+          maxWidth: "90%",
           margin: "auto",
           opacity: "90%",
           background: "white",
