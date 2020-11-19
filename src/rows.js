@@ -19,11 +19,11 @@ const rows = [
   }),
   createData("Godwill Omwando", 6, {
     prof: pic,
-    dates: [["15/NOV/2020", 3],["19/NOV/2020",3],
+    dates: [["15/NOV/2020", 3],["19/NOV/2020",3]],
   }),
   createData("Chris Nyabuto", 6, {
     prof: pic,
-    dates: [["16/NOV/2020", 3],["19/NOV/2020",3],
+    dates: [["16/NOV/2020", 3],["19/NOV/2020",3]],
   }),
   createData("Faith Kemunto", 1, {
     prof: fefe,
