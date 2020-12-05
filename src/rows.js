@@ -14,6 +14,10 @@ const rows = [
     prof: pic,
     dates: [["16/NOV/2020", 3],["19/NOV/2020",3]],
   }),
+   createData("Anthony Masese", 4, {
+    prof: pic,
+    dates: [["15/NOV/2020", 1],["30/NOV/2020",1],["5/DEC/2020",2]],
+  }),
   createData("Bravon Darwin", 3, {
     prof: pic,
     dates: [
@@ -29,10 +33,6 @@ const rows = [
     createData("Steve Ongeri", 2, {
     prof: pic,
     dates: [["22/NOV/2020", 2]],
-  }),
-   createData("Anthony Masese", 2, {
-    prof: pic,
-    dates: [["15/NOV/2020", 1],["30/NOV/2020",1]],
   }),
   createData("Faith Kemunto", 1, {
     prof: pic,
