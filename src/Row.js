@@ -40,7 +40,7 @@ function Row(props) {
           </IconButton>
         </TableCell>
         <TableCell>
-          <a href="https://api.whatsapp.com/send?phone=254702338066&text=I%20would%20like%20to%20order%20somethings">
+          <a href="https://api.whatsapp.com/send?phone=254702338066&text=Hi%20Hillary">
             {row.name}
           </a>
         </TableCell>
