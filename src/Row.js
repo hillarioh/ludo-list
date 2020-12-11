@@ -22,7 +22,6 @@ const useRowStyles = makeStyles({
   },
 });
 
-
 function Row(props) {
   const { row } = props;
   const [open, setOpen] = React.useState(false);
@@ -40,7 +39,11 @@ function Row(props) {
             {open ? <KeyboardArrowUpIcon /> : <KeyboardArrowDownIcon />}
           </IconButton>
         </TableCell>
-        <TableCell>{row.name}</TableCell>
+        <TableCell>
+          <a href="https://api.whatsapp.com/send?phone=254702338066&text=I%20would%20like%20to%20order%20somethings">
+            {row.name}
+          </a>
+        </TableCell>
         <TableCell>{row.shames}</TableCell>
       </TableRow>
       <TableRow>
