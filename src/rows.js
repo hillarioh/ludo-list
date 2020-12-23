@@ -6,9 +6,9 @@ function createData(name, shames, profile) {
 
 const rows = [
   
-  createData("Godwill Omwando", 9, {
+  createData("Godwill Omwando", 10, {
     prof: pic,
-    dates: [["15/NOV/2020", 3],["19/NOV/2020",3],["13/DEC/2020",2],["19/DEC/2020", 1]],
+    dates: [["15/NOV/2020", 3],["19/NOV/2020",3],["13/DEC/2020",2],["19/DEC/2020", 1],["22/DEC/2020", 1]],
   }),
   createData("Chris Nyabuto", 7, {
     prof: pic,
