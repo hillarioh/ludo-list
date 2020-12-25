@@ -6,9 +6,9 @@ function createData(name, shames, profile) {
 
 const rows = [
   
-  createData("Godwill Omwando", 10, {
+  createData("Godwill Omwando", 11, {
     prof: pic,
-    dates: [["15/NOV/2020", 3],["19/NOV/2020",3],["13/DEC/2020",2],["19/DEC/2020", 1],["22/DEC/2020", 1]],
+    dates: [["15/NOV/2020", 3],["19/NOV/2020",3],["13/DEC/2020",2],["19/DEC/2020", 1],["22/DEC/2020", 1],["25/DEC/2020", 1]],
   }),
   createData("Chris Nyabuto", 7, {
     prof: pic,
@@ -47,17 +47,17 @@ const rows = [
     prof: pic,
     dates: [["24/NOV/2020", 1]],
   }),
-   createData("Felloh", 1, {
+   createData("Felloh", 2, {
     prof: pic,
-    dates: [["30/NOV/2020", 1]],
+    dates: [["30/NOV/2020", 1],["23/DEC/2020", 1]],
   }),
 createData("KidInk", 1, {
     prof: pic,
     dates: [["17/DEC/2020", 1]],
   }),
-createData("BOBO", 1, {
+createData("BOBO", 5, {
     prof: pic,
-    dates: [["19/DEC/2020", 1]],
+    dates: [["19/DEC/2020", 1],["24/DEC/2020", 4]],
   }),
 ];
 
