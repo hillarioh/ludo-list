@@ -17,7 +17,12 @@ const rows = [
    createData("Anthony Masese", 6, {
     prof: pic,
     dates: [["15/NOV/2020", 1],["30/NOV/2020",1],["5/DEC/2020",2],["21/DEC/2020", 2]],
-  }),createData("Titus Omwando", 3, {
+  }),
+createData("BOBO", 5, {
+    prof: pic,
+    dates: [["19/DEC/2020", 1],["24/DEC/2020", 4]],
+  })
+,createData("Titus Omwando", 3, {
     prof: pic,
     dates: [["12/NOV/2020", 1],["21/DEC/2020", 2]],
   }),
@@ -37,6 +42,10 @@ const rows = [
     prof: pic,
     dates: [["22/NOV/2020", 2],["20/DEC/2020",1]],
   }),
+createData("Felloh", 2, {
+    prof: pic,
+    dates: [["30/NOV/2020", 1],["23/DEC/2020", 1]],
+  }),
   createData("Faith Kemunto", 1, {
     prof: pic,
     dates: [["1/NOV/2020", 1]],
@@ -47,18 +56,12 @@ const rows = [
     prof: pic,
     dates: [["24/NOV/2020", 1]],
   }),
-   createData("Felloh", 2, {
-    prof: pic,
-    dates: [["30/NOV/2020", 1],["23/DEC/2020", 1]],
-  }),
+   
 createData("KidInk", 1, {
     prof: pic,
     dates: [["17/DEC/2020", 1]],
   }),
-createData("BOBO", 5, {
-    prof: pic,
-    dates: [["19/DEC/2020", 1],["24/DEC/2020", 4]],
-  }),
+
 ];
 
 export default rows;
