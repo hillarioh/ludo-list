@@ -18,14 +18,15 @@ const rows = [
     prof: pic,
     dates: [["15/NOV/2020", 1],["30/NOV/2020",1],["5/DEC/2020",2],["21/DEC/2020", 2]],
   }),
+createData("Titus Omwando", 5, {
+    prof: pic,
+    dates: [["12/NOV/2020", 1],["21/DEC/2020", 2],["28/DEC/2020", 2]],
+  }),
 createData("BOBO", 5, {
     prof: pic,
     dates: [["19/DEC/2020", 1],["24/DEC/2020", 4]],
   })
-,createData("Titus Omwando", 3, {
-    prof: pic,
-    dates: [["12/NOV/2020", 1],["21/DEC/2020", 2]],
-  }),
+,
   createData("Bravon Darwin", 3, {
     prof: pic,
     dates: [
